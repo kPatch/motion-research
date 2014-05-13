@@ -9,6 +9,7 @@
 #ifndef _INCLUDE_TRACK_H
 #define _INCLUDE_TRACK_H
 
+#include "linux/videodev2.h"
 #include "alg.h"
 
 struct trackoptions {
